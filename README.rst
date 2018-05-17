@@ -1,4 +1,4 @@
-Funniest
+AWS Secret
 --------
 
 To use simply do::
